@@ -1,0 +1,26 @@
+{
+  "name": "16bitmips_assembler",
+  "version": "1.0.0",
+  "description": "an assembler for special 16 bit mips",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no test command now...\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/watchdots/MIPS-Logisim.git"
+  },
+  "keywords": [
+    "logisim",
+    "mips",
+    "16bit",
+    "16bitmips",
+    "logisimmips"
+  ],
+  "author": "watchdots",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/watchdots/MIPS-Logisim/issues"
+  },
+  "homepage": "https://github.com/watchdots/MIPS-Logisim#readme"
+}

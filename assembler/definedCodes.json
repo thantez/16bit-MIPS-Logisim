@@ -1,0 +1,47 @@
+{
+    "addi": {
+        "value": "100",
+        "mem": false
+    },
+    "add": {
+        "func": "010"
+    },
+    "j": {
+        "value": "111"
+    },
+    "sll": {
+        "func": "011"
+    },
+    "srl": {
+        "func": "100"
+    },
+    "slt": {
+        "func": "111"
+    },
+    "lw": {
+        "value": "010",
+        "mem": true
+    },
+    "sw": {
+        "value": "011",
+        "mem": true
+    },
+    "lui": {
+        "value": "101",
+        "mem": true
+    },
+    "and": {
+        "func": "000"
+    },
+    "or": {
+        "func": "001"
+    },
+    "beq": {
+        "value": "001",
+        "mem": false
+    },
+    "lb": {
+        "value": "110",
+        "mem": true
+    }
+}
